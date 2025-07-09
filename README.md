@@ -10,4 +10,4 @@
 
 在这些平台中，用户可以通过类别、演员等过滤，轻松找到自己喜爱的内容。每个视频页面都会显示详细的影片信息，如时长、演员、清晰度等。平台支持高清视频播放，并能根据网络条件自动优化画质，确保顺畅的观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/yeah20250709/yeah6 ）</span>
